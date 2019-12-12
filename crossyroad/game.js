@@ -134,7 +134,7 @@ gameScene.update = function() {
 };
 
 gameScene.gameOver = function() {
-  // initiated game over sequence
+  // initate game over sequence
   this.isTerminating = true;
 
   // shake camera
